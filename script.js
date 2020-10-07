@@ -84,7 +84,6 @@ $(document).ready(function () {
 
     function fetchCurrentWeather(citySearched) {
         var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + citySearched + "&appid=ce0ce71f7cda76dd7b16ae4ee13840f4"
-        // http://api.openweathermap.org/data/2.5/weather?q=seattle&appid=ce0ce71f7cda76dd7b16ae4ee13840f4
 
         $.ajax({
             url: queryURL,
@@ -97,7 +96,6 @@ $(document).ready(function () {
 
     function fetchForcastWeather(citySearched) {
         var queryURL = "https://api.openweathermap.org/data/2.5/forecast?q=" + citySearched + "&appid=ce0ce71f7cda76dd7b16ae4ee13840f4";
-        // http://api.openweathermap.org/data/2.5/forecast?q=seattle&appid=ce0ce71f7cda76dd7b16ae4ee13840f4
 
         $.ajax({
             url: queryURL,
