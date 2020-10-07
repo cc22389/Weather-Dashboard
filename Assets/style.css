@@ -1,0 +1,41 @@
+#top {
+    background-color: rgb(44, 44, 44);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn-outline-success {
+    background-color: blue !important;
+    color: white !important;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: left;
+    background-color: blue !important;
+    color: white;
+}
+
+.row-card {
+    border: solid;
+    border-radius: 3px;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+.list-group {
+    border: solid;
+    border-radius: 3px;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+#CityAndDate {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+h3{
+    margin-left: 20px;
+}
