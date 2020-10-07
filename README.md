@@ -11,4 +11,4 @@ When searching a city, the browser will display the current weather at the time 
 
 # Screenshots
 
-![Weather-Dashboard-Demo](.Assets/Weather-Dashboard-Example.PNG)
+![Weather-Dashboard-Demo](./Assets/Weather-Dashboard-Example.PNG)
