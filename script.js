@@ -70,8 +70,8 @@ $(document).ready(function () {
         $("#Humidity2").text(weatherData.list[7].main.humidity);
         // Day 3
         $("#date3").text(weatherData.list[15].dt_txt);
-        $("#Temp3").text(weatherData[15].main.temp);
-        $("#Humidity3").text(weatherData[15].main.humidity);
+        $("#Temp3").text(weatherData.list[15].main.temp);
+        $("#Humidity3").text(weatherData.list[15].main.humidity);
         // Day 4 
         $("#date4").text(weatherData.list[23].dt_txt);
         $("#Temp4").text(weatherData.list[23].main.temp);
