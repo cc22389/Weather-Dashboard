@@ -10,5 +10,4 @@ When searching a city, the browser will display the current weather at the time 
 ![Github Repository](https://github.com/cc22389/Weather-Dashboard.git)
 
 # Screenshots
-
 ![Weather-Dashboard-Demo](./Assets/Weather-Dashboard-Example.PNG)
